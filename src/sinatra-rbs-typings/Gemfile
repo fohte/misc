@@ -6,3 +6,4 @@ gem 'sinatra'
 
 gem 'rackup', '~> 2.1'
 gem 'rbs', '~> 3.4'
+gem 'steep'
