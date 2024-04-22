@@ -1,0 +1,5 @@
+module Misc
+  class App < Sinatra::Base
+    def response: () -> "Put this in your pipe & smoke it!"
+  end
+end
